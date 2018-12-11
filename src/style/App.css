@@ -1,20 +1,17 @@
-.App {
-    text-align: center;
+.form-div {
+    margin-top: 25px !important;
 }
 
-.App-logo {
-    animation: App-logo-spin infinite 20s linear;
-    height: 80px;
+.float-right {
+    float: right;
 }
 
-.App-header {
-    background-color: #222;
-    height: 80px;
-    padding: 20px;
-    color: white;
+.posts-div {
+    margin-top: 15px;
+    margin-left: 35%;
+    margin-right: 35%;
 }
 
-@keyframes App-logo-spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
+.mr-5 {
+    margin-right: 5px;
 }
