@@ -1,13 +1,17 @@
-.form-div {
-    margin-top: 25px !important;
+.text-center-align {
+    text-align: center;
 }
 
 .float-right {
     float: right;
 }
 
-.posts-div {
-    margin-top: 15px;
+.float-left {
+    float: left;
+}
+
+.custom-container {
+    margin-top: 15%;
     margin-left: 35%;
     margin-right: 35%;
 }
@@ -15,3 +19,21 @@
 .mr-5 {
     margin-right: 5px;
 }
+
+.color-black {
+    color: black;
+}
+
+.color-black:hover {
+    color: black;
+}
+
+.color-white {
+    color: white;
+}
+
+.color-white:hover {
+    color: white;
+    text-decoration: none;
+}
+
